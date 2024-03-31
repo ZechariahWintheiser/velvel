@@ -1,0 +1,24 @@
+{
+  "name": "velvel",
+  "version": "1.0.0",
+  "description": "Malta plugin to uglify js code",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZechariahWintheiser/velvel.git"
+  },
+  "keywords": [
+    "ullam",
+    "malta plugin",
+    "malta uglify js",
+    "perferendis"
+  ],
+  "author": "LaurenHagenes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZechariahWintheiser/velvel.git/issues"
+  },
+  "dependencies": {
+    "uglify-js": "2.8.29"
+  },
+  "main": "./index.js"
+}
